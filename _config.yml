@@ -24,24 +24,24 @@ footer:
 
 # Side Menu Links
 menu:
-  - text: Portfolio
+  - text: ニュース
     link: /
     icon: ""
 
-  - text: Skills & Offers
-    link: /skills-and-offers
+  - text: 計算物理メーリングリスト
+    link: /mailinglist
     icon: ""
 
-  - text: Contact Me
-    link: /contact
+  - text: 計算物理領域代表・運営委員
+    link: /members
     icon: ""
 
-  - text: My Resume
-    link: /resume
+  - text: 計算物理領域準備会 (-2024)
+    link: https://sites.google.com/view/compphys-jp
     icon: ""
 
-  - text: Blog Posts
-    link: /blog
+  - text: 日本物理学会
+    link: http://www.jps.or.jp/
     icon: ""
 
 # Socialmedia Icons
