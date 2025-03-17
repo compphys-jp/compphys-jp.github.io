@@ -10,8 +10,8 @@ paginate: 10
 paginate_path: "/blog/page:num/"
 plugins: [jekyll-paginate]
 
-title: Christian Ezeani
-subtitle: Full-Stack Developer
+title: 日本物理学会 計算物理領域
+subtitle: 
 
 # left_side:
 #   background_image: "./assets/images/left-background.jpg"
@@ -20,7 +20,7 @@ subtitle: Full-Stack Developer
 #   text_color: "#F00"
 
 footer:
-  copyright_text: "&copy; Christian Ezeani"
+  copyright_text: "&copy; 日本物理学会 計算物理領域"
 
 # Side Menu Links
 menu:
