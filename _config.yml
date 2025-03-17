@@ -24,7 +24,7 @@ footer:
 
 # Side Menu Links
 menu:
-  - text: ニュース
+  - text: おしらせ
     link: /
     icon: ""
 
@@ -32,7 +32,15 @@ menu:
     link: /mailinglist
     icon: ""
 
-  - text: 計算物理領域代表・運営委員
+  - text: 領域運営内規
+    link: /bylaws
+    icon: ""
+
+  - text: インフォーマルミーティング
+    link: /informalmeeting
+    icon: ""
+
+  - text: 領域代表・運営委員
     link: /members
     icon: ""
 
