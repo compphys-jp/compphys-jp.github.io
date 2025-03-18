@@ -10,7 +10,9 @@
 * プライベートリポジトリ: https://github.com/compphys-jp/compphys-jp.github.io-dev
   - 作業・確認はこちらで行う
 * パブリックリポジトリ: * プライベートリポジトリ: https://github.com/compphys-jp/compphys-jp.github.io
-  - こちらの`main`ブランチにpushすると自動的に公開される
+  - こちらの`main`ブランチにpushすると自動的に https://compphys-jp.github.io/ が更新される
+
+* **注意**: プライベートリポジトリの`main`ブランチ、およびパブリックリポジトリの全ては公開となるので注意
 
 * cloneの方法
 
