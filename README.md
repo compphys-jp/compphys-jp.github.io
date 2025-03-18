@@ -57,3 +57,12 @@
 * `git push public main`
   - 2,3分すると公開される
   - ログは https://github.com/compphys-jp/compphys-jp.github.io/actions
+
+# 計算物理領域メーリングリスト
+
+* Google Groupsを利用: compphys-jp@googlegroups.com
+  - https://groups.google.com/g/compphys-jp
+* メーリングリスト参加登録フォーム
+  - https://drive.google.com/drive/u/1/home
+  - フォームから申請があると、管理者にメールが届く
+  - https://groups.google.com/g/compphys-jp/members でメールアドレスを登録する
