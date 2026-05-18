@@ -1,15 +1,18 @@
 # 計算物理領域ホームページ
 
+物理学会の領域サーバーへ移行前は、下記の用にこのレポジトリのGitHub Pagesへ転送されていた。
+移行後は、プライベートレポジトリ https://github.com/compphys-jp/compphys-jp.github.io-dev から領域サーバーへ直接アップロードする形で運用している。
+
 ## ホームページ
 
-* https://www.cp.div.jps.or.jp/
-* https://compphys-jp.github.io/ (上のアドレスから自動的に転送される)
+* ~~https://www.cp.div.jps.or.jp/~~
+* https://compphys-jp.github.io/ (~~上のアドレスから自動的に転送される~~)
 
 ## GitHub リポジトリ
 
 * プライベートリポジトリ: https://github.com/compphys-jp/compphys-jp.github.io-dev
   - 作業・確認はこちらで行う
-* パブリックリポジトリ: * プライベートリポジトリ: https://github.com/compphys-jp/compphys-jp.github.io
+* パブリックリポジトリ: https://github.com/compphys-jp/compphys-jp.github.io
   - こちらの`main`ブランチにpushすると自動的に https://compphys-jp.github.io/ が更新される
 
 * **注意**: プライベートリポジトリの`main`ブランチ、およびパブリックリポジトリの全ては公開となるので注意
